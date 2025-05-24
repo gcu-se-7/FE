@@ -6,14 +6,14 @@ React + TailwindCSS 기반으로 제작한 간단한 한식 소개 및 레시피
 
 ## 📸 실행 화면
 
-메인 페이지:
-![스크린샷 2025-05-22 234525](https://github.com/user-attachments/assets/19f41a71-a518-4fbd-b091-9436e942eeed)
+메인 페이지(입력 전):
+![스크린샷 2025-05-25 013846](https://github.com/user-attachments/assets/b7fa9a6e-3acf-4d4d-91cc-40ba5b7b1372)
 
 
 
-인트로 페이지:
+메인 페이지(입력 후):
+![스크린샷 2025-05-25 013852](https://github.com/user-attachments/assets/535511a2-a746-4e3c-ae99-b303dccf88b3)
 
-![스크린샷 2025-05-22 234537](https://github.com/user-attachments/assets/3a0414db-3a24-4575-9809-188cd3d3ceaf)
 
 
 
