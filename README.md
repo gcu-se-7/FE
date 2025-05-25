@@ -39,12 +39,10 @@ React 기반의 한식 레시피 소개 및 추천 웹앱입니다.
 
 ## 🚀 실행 방법
 
-```bash
-npm install
-npm start!
 [스크린샷 2025-05-26 011706](https://github.com/user-attachments/assets/7d5886e3-9759-4e7e-856b-20982ad20d37)
-
 [스크린샷 2025-05-26 011719](https://github.com/user-attachments/assets/27c85b6d-393b-49d0-835c-9c0567ed21e1)
+
+
 
 
 
