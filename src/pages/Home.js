@@ -31,7 +31,7 @@ const Home = () => {
   };
 
   return (
-    <div className="container mx-auto px-4 py-8">
+    <div className="min-h-screen bg-gray-50 py-10 px-4">
       <h1 className="text-3xl font-bold mb-8 text-center">레시피 추천</h1>
       
       <div className="max-w-2xl mx-auto bg-white rounded-lg shadow-md p-6">
@@ -66,7 +66,7 @@ const Home = () => {
 
         <button
           onClick={handleSearch}
-          className="w-full bg-blue-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600 transition-colors"
+          className="w-full bg-purple-600 text-white py-2 px-4 rounded-lg hover:bg-purple-700 transition-colors"
         >
           레시피 검색
         </button>

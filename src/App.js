@@ -1,5 +1,6 @@
 import React from 'react';
 import './index.css';
+import Intro from './pages/Intro';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 
 import MainPage from './pages/MainPage';
@@ -22,14 +23,14 @@ function App() {
       to="/intro"
       className="text-gray-700 hover:text-purple-600 hover:underline transition duration-200"
     >
-      인트로
+      한식 소개
     </Link>
   </div>
 </nav>
 
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/intro" element={<IntroPage />} />
+        <Route path="/intro" element={<Intro />} />  // IntroPage → Intro
       </Routes>
     </Router>
   );
